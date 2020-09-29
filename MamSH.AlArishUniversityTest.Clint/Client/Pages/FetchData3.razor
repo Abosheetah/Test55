@@ -1,0 +1,45 @@
+@page "/fetchdata3"
+@using MamSH.AlArishUniversityTest.Clint.Shared
+@inject HttpClient Http
+
+<h1>Students</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (student == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+            </tr>
+        </thead>
+        <tbody>
+           
+                <tr>
+                    <td>@student.Name</td>
+                    <td>@student.Age</td>                  
+                </tr>
+            
+        </tbody>
+    </table>
+    <Counter></Counter>
+}
+
+@code {
+    private Student student;
+
+    [Parameter]
+    public int Id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        student = await Http.GetFromJsonAsync<Student>("api/Students/1");
+    }
+
+}

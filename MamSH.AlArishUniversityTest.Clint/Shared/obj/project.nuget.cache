@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QAhLbzCXDHWa4ttIPXbd+3RQQmzJfOYnWfsmj0DTCYidj82cZhy9F3KpSv+qtFqKVaC6h92tlIz/tGIZzRfZgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muhammad\\source\\repos\\MamSH.AlArishUniversityTest\\MamSH.AlArishUniversityTest.Clint\\Shared\\MamSH.AlArishUniversityTest.Clint.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\Muhammad\source\repos\MamSH.AlArishUniversityTest\MamSH.AlArishUniversityTest.Clint\Shared\bin\Debug\netstandard2.1\MamSH.AlArishUniversityTest.Clint.Shared.deps.json
+C:\Users\Muhammad\source\repos\MamSH.AlArishUniversityTest\MamSH.AlArishUniversityTest.Clint\Shared\bin\Debug\netstandard2.1\MamSH.AlArishUniversityTest.Clint.Shared.dll
+C:\Users\Muhammad\source\repos\MamSH.AlArishUniversityTest\MamSH.AlArishUniversityTest.Clint\Shared\obj\Debug\netstandard2.1\MamSH.AlArishUniversityTest.Clint.Shared.AssemblyInfoInputs.cache
+C:\Users\Muhammad\source\repos\MamSH.AlArishUniversityTest\MamSH.AlArishUniversityTest.Clint\Shared\obj\Debug\netstandard2.1\MamSH.AlArishUniversityTest.Clint.Shared.AssemblyInfo.cs
+C:\Users\Muhammad\source\repos\MamSH.AlArishUniversityTest\MamSH.AlArishUniversityTest.Clint\Shared\bin\Debug\netstandard2.1\MamSH.AlArishUniversityTest.Clint.Shared.pdb
+C:\Users\Muhammad\source\repos\MamSH.AlArishUniversityTest\MamSH.AlArishUniversityTest.Clint\Shared\obj\Debug\netstandard2.1\MamSH.AlArishUniversityTest.Clint.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\source\repos\MamSH.AlArishUniversityTest\MamSH.AlArishUniversityTest.Clint\Shared\obj\Debug\netstandard2.1\MamSH.AlArishUniversityTest.Clint.Shared.dll
+C:\Users\Muhammad\source\repos\MamSH.AlArishUniversityTest\MamSH.AlArishUniversityTest.Clint\Shared\obj\Debug\netstandard2.1\MamSH.AlArishUniversityTest.Clint.Shared.pdb
+C:\Users\Muhammad\source\repos\MamSH.AlArishUniversityTest\MamSH.AlArishUniversityTest.Clint\Shared\obj\Debug\netstandard2.1\MamSH.AlArishUniversityTest.Clint.Shared.csprojAssemblyReference.cache
